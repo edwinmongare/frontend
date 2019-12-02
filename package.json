@@ -1,0 +1,23 @@
+{
+  "name": "bahari_smart_water",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinmongare/frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinmongare/frontend/issues"
+  },
+  "homepage": "https://github.com/edwinmongare/frontend#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
